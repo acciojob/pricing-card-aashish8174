@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+div{
+	width:400px;
+	background:#f1f1f1;
+	border-radius:20px;
+	
+}
+
+
+button{
+	background:#fe625a;
+	color:white;
+	padding:20px;
+	border:white;
+	border-radius:15px;
+	
+}
